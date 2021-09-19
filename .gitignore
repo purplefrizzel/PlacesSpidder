@@ -1,0 +1,7 @@
+# Runtime Files
+places.list
+logs/
+config.xml
+
+# Python Files
+__pycache__/
